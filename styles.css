@@ -9,7 +9,7 @@ h1{
     font-size: 90px;
 }
 .logo{
-    margin-left: px;
+    margin-left: 40px;
 }
 body{
     background-color: aliceblue;
@@ -20,8 +20,22 @@ footer{
 }
 figcaption{
     text-align: center;
+    font-weight: bold;
 }
 .membros{
     caption-side: top;
     padding: 8px;
+}
+.membros2{
+    caption-side: top;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.figfir{
+    margin-left: 20px;
+}
+.idade{
+    padding: 8px;
+    margin-left: 20px;
 }
